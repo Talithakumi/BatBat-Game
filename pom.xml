@@ -120,6 +120,7 @@
 			<artifactId>tritonus-share</artifactId>
 			<version>0.3.7-3</version>
 		</dependency>
+		<dependency>
 		<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
@@ -134,6 +135,7 @@
 	    </snapshotRepository>
 	    
 	</distributionManagement>
+	</dependency>
 	</dependencies>
 
 	<build>
