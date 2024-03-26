@@ -120,22 +120,7 @@
 			<artifactId>tritonus-share</artifactId>
 			<version>0.3.7-3</version>
 		</dependency>
-		<dependency>
-		<distributionManagement>
-	    <repository>
-	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/Demo1-release/</url>
-	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/Demo1-snapshot/</url>
-	    </snapshotRepository>
-	    
-	</distributionManagement>
-	</dependency>
+		
 	</dependencies>
 
 	<build>
